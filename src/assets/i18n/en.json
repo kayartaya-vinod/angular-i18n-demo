@@ -1,0 +1,7 @@
+{
+    "appRoot": {
+        "title": "Hello, World",
+        "quote": "Quote of the day: Don't worry, be happy!",
+        "nameLabel": "Enter your name: "
+    }
+}
